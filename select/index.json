@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ド縫う",
+  "base_artist": "ผ้าอ้อม99999",
+  "createdAt": "2026-04-03T12:29:22.014600Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ド縫う",
+      "artist": "ผ้าอ้อม99999",
+      "has_synced": false,
+      "path": "select/pl_01_ド縫う_ผ้าอ้อม99999.txt"
+    }
+  ]
+}
